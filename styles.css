@@ -1,0 +1,24 @@
+body{
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+}
+
+h1{
+    width: 10%
+    margin: auto;
+    padding: 0.1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+}
+
+img{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
